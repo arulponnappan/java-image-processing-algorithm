@@ -1,4 +1,4 @@
-# Image Processing with java
+# Image Processing with JAVA
 ## About this project
 The code I was developing on 3-4 years ago, While I studied on Third years in University. My purpose is to use the code in Senior project. Now I don't work in image processing field anymore. I decided to open code for everyone who is interesting in image processing. I want people to lean from my code. 
 
